@@ -1,0 +1,1 @@
+- `0-class_diagram.mmd`: Mermaid class diagram of the Library Loan System (classes, attributes, methods, relationships and multiplicities).
