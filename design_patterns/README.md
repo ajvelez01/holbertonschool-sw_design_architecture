@@ -1,0 +1,1 @@
+- `0-factory.py`: Factory with a registry (VehicleFactory) that adds Scooter via register_kind without changing create().
